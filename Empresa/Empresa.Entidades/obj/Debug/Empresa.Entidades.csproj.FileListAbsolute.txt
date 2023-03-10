@@ -1,0 +1,6 @@
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\bin\Debug\Empresa.Entidades.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\bin\Debug\Empresa.Entidades.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.csproj.AssemblyReference.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.pdb

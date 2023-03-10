@@ -1,0 +1,18 @@
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\bin\Debug\Empresa.Entidades.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\bin\Debug\Empresa.Entidades.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.csproj.AssemblyReference.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.pdb
+C:\Users\Usuario\Desktop\Empresa\Empresa.Entidades\bin\Debug\Empresa.Entidades.dll
+C:\Users\Usuario\Desktop\Empresa\Empresa.Entidades\bin\Debug\Empresa.Entidades.pdb
+C:\Users\Usuario\Desktop\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.dll
+C:\Users\Usuario\Desktop\Empresa\Empresa.Entidades\obj\Debug\Empresa.Entidades.pdb
+E:\COLEGIO\Progra\Cotidiano\FormsC#\Transporte\Empresa.Entidades\bin\Debug\Empresa.Entidades.dll
+E:\COLEGIO\Progra\Cotidiano\FormsC#\Transporte\Empresa.Entidades\bin\Debug\Empresa.Entidades.pdb
+E:\COLEGIO\Progra\Cotidiano\FormsC#\Transporte\Empresa.Entidades\obj\Debug\Empresa.Entidades.csproj.AssemblyReference.cache
+E:\COLEGIO\Progra\Cotidiano\FormsC#\Transporte\Empresa.Entidades\obj\Debug\Empresa.Entidades.csproj.CoreCompileInputs.cache
+E:\COLEGIO\Progra\Cotidiano\FormsC#\Transporte\Empresa.Entidades\obj\Debug\Empresa.Entidades.dll
+E:\COLEGIO\Progra\Cotidiano\FormsC#\Transporte\Empresa.Entidades\obj\Debug\Empresa.Entidades.pdb
